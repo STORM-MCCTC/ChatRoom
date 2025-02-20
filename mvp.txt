@@ -1,0 +1,5 @@
+Chat Room App
+
+-one chat room where all messages are send
+-users can set there username
+-chatbox can scroll up as far as there are still older msg's

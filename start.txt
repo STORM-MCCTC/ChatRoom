@@ -1,0 +1,8 @@
+backend:
+cd backend
+FastAPI-env/Scripts\activate
+uvicorn main:app --reload
+
+frontend:
+cd frontend/chat-room
+npm run dev
