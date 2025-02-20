@@ -1,6 +1,6 @@
-# ChatRoom Website
+# ChatRoom Webapp
 
-A real-time chat application built with **FastAPI, React, Vite, and SQLite**.
+A real-time full-stack chat web-application built with **FastAPI, React, Vite, and SQLite**.
 
 ---
 
